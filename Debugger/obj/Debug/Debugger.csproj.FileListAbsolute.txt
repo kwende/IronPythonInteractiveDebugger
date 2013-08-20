@@ -1,0 +1,6 @@
+C:\Users\brush\Documents\GitHub\IronPythonInteractiveDebugger\Debugger\bin\Debug\Debugger.dll
+C:\Users\brush\Documents\GitHub\IronPythonInteractiveDebugger\Debugger\bin\Debug\Debugger.pdb
+C:\Users\brush\Documents\GitHub\IronPythonInteractiveDebugger\Debugger\obj\Debug\Debugger.csprojResolveAssemblyReference.cache
+C:\Users\brush\Documents\GitHub\IronPythonInteractiveDebugger\Debugger\obj\Debug\Debugger.csproj.ResolveComReference.cache
+C:\Users\brush\Documents\GitHub\IronPythonInteractiveDebugger\Debugger\obj\Debug\Debugger.dll
+C:\Users\brush\Documents\GitHub\IronPythonInteractiveDebugger\Debugger\obj\Debug\Debugger.pdb
